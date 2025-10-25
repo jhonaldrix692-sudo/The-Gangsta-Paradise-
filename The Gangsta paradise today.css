@@ -1,0 +1,24 @@
+body {
+    margin: 0%;
+}
+
+header {
+    font-style: oblique;
+    background-color: rgb(110, 0, 0);
+    padding: 5%;
+    color: azure;
+    text-align: center
+}
+
+nav {
+    size: ;
+    display:flex;
+    list-style: none;
+}
+
+li {
+    margin: 3%;
+}
+
+a{
+    text-decoration: none;
